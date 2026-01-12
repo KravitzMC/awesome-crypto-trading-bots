@@ -6,8 +6,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 Create **trading bots** and follow **smart investors** with [Coinrule](https://coinrule.com?fp_ref=botcrypto)
 
-[![coinrule](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/530f18f1-0e93-4ed1-8d66-36eb96276053)](https://coinrule.com?fp_ref=botcrypto)
-
 ## Contents
 
 * [Open source bots](#open-source-bots)

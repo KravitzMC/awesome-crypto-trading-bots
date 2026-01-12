@@ -1,6 +1,6 @@
 <img src="https://github.com/KravitzMC/awesome-crypto-trading-bots/blob/main/botlogo1.png" width="200" height="200" align="right">
 
-## 🤖 Awesome Crypto Trading Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## 🤖 Awesome Crypto, Forex Trading Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
 
@@ -17,6 +17,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 ## Open source bots
 
 * [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
+* [AI Gold Scalper](https://github.com/clayandthepotter/ai-gold-scalper) - Enterprise-grade AI Gold Trading System.
 * [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
 * [Blankly](https://github.com/KravitzMC/blankly) - Trade stocks, cryptos, and forex across exchanges w/ one package.
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.

@@ -54,7 +54,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
-* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
@@ -67,6 +66,11 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
+
+## Machine Learing libraries for Financial 
+
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
+* [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 
 ## Market data libraries
 

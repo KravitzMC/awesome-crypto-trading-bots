@@ -68,6 +68,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 ## Market data libraries
 
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
+* [kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
 * [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
 * [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
 * [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.

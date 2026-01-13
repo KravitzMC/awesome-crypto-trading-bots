@@ -24,6 +24,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
 * [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
+* [crypto_hedge_scalping_bot](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
 * [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 * [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
@@ -73,7 +74,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-
+* [prophet_predictions_bot](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto. 
 
 ## Market data libraries
 

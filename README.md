@@ -72,7 +72,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 ## Deep Learning libraries for Financial 
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
-* [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 
 
 ## Market data libraries

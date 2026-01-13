@@ -74,7 +74,8 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-* [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto. 
+* [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
+* [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
 
 ## Market data libraries
 

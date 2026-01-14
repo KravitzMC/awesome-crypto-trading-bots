@@ -77,6 +77,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 * [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
 * [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
+* [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
 
 ## Market data libraries
 

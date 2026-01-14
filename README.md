@@ -11,6 +11,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 * [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#technical-analysis-libraries)
+* [Deep Learning](#deep-learning--linear-statistic)
 * [Market data libraries](#market-data-libraries)
 * [API and data providers](#api-and-data-providers)
 * [Charting libraries](#charting-libraries)

@@ -5,7 +5,7 @@
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
 
-<h3><p align="left">:warning: ** Any bots please used at one's own risk** :warning:</p></h3>
+<h3><p align="left">:warning: Any bots please used at one's own risk :warning:</p></h3>
 
 ## Contents
 

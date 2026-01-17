@@ -7,6 +7,9 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 <h3><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h3>
 
+## Disclaimer
+
+NO WARRANTIES, EXPRESS OR IMPLIED, THAT THIS SCRIPT IS FREE OF ERRORS, DEFECTS, OR SUITABLE FOR ANY PARTICULAR PURPOSE. NOT BE HELD LIABLE FOR ANY DAMAGES SUFFERED BY ANY USER OF THIS SCRIPT, WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL, ARISING FROM THE USE OF OR INABILITY TO USE THIS SCRIPT OR ITS DOCUMENTATION, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 ## Contents
 
 * [Open source bots](#open-source-bots)
@@ -172,6 +175,3 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
  
-## Disclaimer
-
-NO WARRANTIES, EXPRESS OR IMPLIED, THAT THIS SCRIPT IS FREE OF ERRORS, DEFECTS, OR SUITABLE FOR ANY PARTICULAR PURPOSE. NOT BE HELD LIABLE FOR ANY DAMAGES SUFFERED BY ANY USER OF THIS SCRIPT, WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL, ARISING FROM THE USE OF OR INABILITY TO USE THIS SCRIPT OR ITS DOCUMENTATION, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.

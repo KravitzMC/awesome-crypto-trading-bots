@@ -5,11 +5,11 @@
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
 
+## Disclaimer
 <h3><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h3>
 
-## Disclaimer
-
 NO WARRANTIES, EXPRESS OR IMPLIED, THAT THIS SCRIPT IS FREE OF ERRORS, DEFECTS, OR SUITABLE FOR ANY PARTICULAR PURPOSE. NOT BE HELD LIABLE FOR ANY DAMAGES SUFFERED BY ANY USER OF THIS SCRIPT, WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL, ARISING FROM THE USE OF OR INABILITY TO USE THIS SCRIPT OR ITS DOCUMENTATION, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
 ## Contents
 
 * [Open source bots](#open-source-bots)

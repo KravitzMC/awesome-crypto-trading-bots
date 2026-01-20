@@ -185,6 +185,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 * [Cryptomus](https://cryptomus.com) - An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
+* [Coingate](https://coingate.com/)
+* [Nowpayments](https://nowpayments.io/)
 
 ## Crypto Visa/MasterCard Platform
 

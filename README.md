@@ -69,6 +69,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 💻 [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
 
+💻 [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
+
 💻 [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 
 💻 [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange

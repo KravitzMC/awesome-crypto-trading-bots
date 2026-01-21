@@ -1,7 +1,7 @@
 <img src="https://github.com/KravitzMC/awesome-crypto-trading-bots/blob/main/botlogo1.png" width="200" height="200" align="right">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
-# 🤖 Awesome Crypto, Forex Trading Bots
+# Awesome Crypto, Forex Trading Bots
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
 

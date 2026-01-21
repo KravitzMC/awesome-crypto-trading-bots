@@ -108,7 +108,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 💻 [SolanaCopyTradingBot](https://github.com/AlphaFox000/solana-copy-trading-bot) - Advanced Solana copy trading bot with non-blocking parallel execution, must-selling protection, and multi-DEX fallback.
 
 
-## Technical analysis libraries
+## 🔰 Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
@@ -125,7 +125,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
 
 
-## Deep Learning & Linear Statistic
+## 🎯 Deep Learning & Linear Statistic
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
@@ -133,7 +133,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
 * [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
 
-## Market data libraries
+## 🚀 Market data libraries
 
 * [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
@@ -151,7 +151,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
 
-## API and data providers
+## 🌫️ API and data providers
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
@@ -163,7 +163,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
-## Charting libraries
+## 📊 Charting libraries
 
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
@@ -172,7 +172,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
 
-## Miscellaneous tools
+## 🧽 Miscellaneous tools
 
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
@@ -181,14 +181,14 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 
-## Payment process providers
+## ✈️ Payment process providers
 
 * [Cryptomus](https://cryptomus.com) - An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
 * [Coingate](https://coingate.com/) - Secure crypto payment gateway for business.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
 
-## Crypto Visa/MasterCard Platform
+## 💳 Crypto Visa/MasterCard Platform
 
 * [Tevau](https://tevau.io/)
 * [Redotpay](https://www.redotpay.com/)

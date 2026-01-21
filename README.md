@@ -28,7 +28,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Deep Learning](#-deep-learning--linear-statistic)
 * [Market data libraries](#-market-data-libraries)
 * [API and data providers](#-api-and-data-providers)
-* [Payment providers](#-payment-process-providers)
+* [Payment providers](#-payment-gateway-providers)
 * [Crypto Visa/MasterCard platform](#-crypto-visamastercard-platform)
 * [Charting libraries](#-charting-libraries)
 

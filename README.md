@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</br>
 # Awesome Crypto, Forex Trading Bots
 
-An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
+An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc.
 
 ## Disclaimer
 <h3><p align="left">:warning: Please use bots at your own risk, and we not any guarantees damage. :warning:</p></h3>

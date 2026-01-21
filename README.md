@@ -183,7 +183,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 
-## 🛄 Payment process providers
+## 🛄 Payment gateway providers
 
 * [Cryptomus](https://cryptomus.com) - An all-in-one Crypto Payment Gateway and Ecosystem for business and personal use.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.

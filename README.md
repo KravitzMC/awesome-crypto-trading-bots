@@ -31,7 +31,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Payment gateway providers](#-payment-gateway-providers)
 * [Charting libraries](#-charting-libraries)
 * [Crypto Visa/MasterCard platform](#-crypto-visamastercard-platform)
-
+* [Blockchain Framework](#-blockchain-framework)
 
 ## Open source bots
 
@@ -175,10 +175,11 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
 
-## Blockchain libraries
+## 🧱 Blockchain Framework
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - A Framework for Building High Value Public Blockchains.
 * [Polkadot ](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK.
+
 
 ## 🧽 Miscellaneous tools
 

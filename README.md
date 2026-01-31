@@ -32,6 +32,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Charting libraries](#-charting-libraries)
 * [Crypto Visa/MasterCard platform](#-crypto-visamastercard-platform)
 * [Blockchain SDK](#-blockchain-sdk)
+* [Community](#-community)
 
 ## Open source bots
 
@@ -136,6 +137,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
 * [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
 
+
 ## 🚀 Market data libraries
 
 * [python-kraken-sdk](https://github.com/btschwertfeger/python-kraken-sdk) - Command-line tool and SDK to access the Kraken Crypto Asset Exchange API (Spot, xStocks, and Futures, REST and Websocket API).
@@ -204,3 +206,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Tevau](https://tevau.io/)
 * [Redotpay](https://www.redotpay.com/)
 * [Pionex](https://www.pionex.com)
+
+## 🦄 Community
+
+* [CallBotCrypto](https://callbotcrypto.com/) -  A group of PhD students have joined their knowledges to develop predictive algorithms. 
+

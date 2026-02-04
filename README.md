@@ -204,6 +204,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 ## 💳 Crypto Visa/MasterCard Platform
 
 * [Tevau](https://tevau.io/)
+* [Alchemy Pay](https://alchemypay.org/)
 * [Redotpay](https://www.redotpay.com/)
 * [Pionex](https://www.pionex.com)
 

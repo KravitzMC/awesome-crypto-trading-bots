@@ -53,7 +53,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
  
 💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
-💻  [AI Gold Scalper](https://github.com/clayandthepotter/ai-gold-scalper) - Enterprise-grade AI Gold Trading System.
+💻 [AI Gold Scalper](https://github.com/clayandthepotter/ai-gold-scalper) - Enterprise-grade AI Gold Trading System.
 
 💻 [Binance Grid Trader](https://github.com/51bitquant/binance_grid_trader) - Grid strategy bot trading with Binance Spot and Binance Futures Exchange.
 
@@ -65,7 +65,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 💻 [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 
-💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform. 
+💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
 💻 [Crypto_Hedge_scalping](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
 

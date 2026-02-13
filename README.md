@@ -65,6 +65,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 💻 [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 
+💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform. 
+
 💻 [Crypto_Hedge_scalping](https://github.com/nikita-doronin/crypto_hedge_scalping_bot) - This is a crypto Hedge Scalping bot for Binance, including both backtest and live trading bot.
 
 💻 [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.

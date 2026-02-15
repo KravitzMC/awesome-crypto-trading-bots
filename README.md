@@ -209,7 +209,6 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Tevau](https://tevau.io/)
 * [Cypher](https://cypherhq.io/)
 * [Alchemy Pay](https://alchemypay.org/)
-* [Redotpay](https://www.redotpay.com/)
 * [Pionex](https://www.pionex.com)
 
 ## 🦄 Community

@@ -203,6 +203,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
 * [CoinPayments](https://www.coinpayments.net/) - A veteran in the space.
 * [Plisio](https://plisio.net/) - Focused on privacy and low costs and It offers tools for mass payouts.
+* [OxaPay](http://oxapay.com/) - Crypto payment gateway for Web, App and Business.
 
 ## 💳 Crypto Visa/MasterCard Platform
 

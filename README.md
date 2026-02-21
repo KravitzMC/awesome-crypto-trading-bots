@@ -30,12 +30,11 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [API and data providers](#-api-and-data-providers)
 * [Payment gateway providers](#-payment-gateway-providers)
 * [Charting libraries](#-charting-libraries)
-* [Crypto Visa/MasterCard platform](#-crypto-visamastercard-platform)
+* [Crypto Visa & MasterCard](#-crypto-visa--mastercard)
 * [Blockchain SDK](#-blockchain-sdk)
 * [Community](#-community)
 
 ## Open source bots
-
 
 👑 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
@@ -205,12 +204,12 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Plisio](https://plisio.net/) - Focused on privacy and low costs and It offers tools for mass payouts.
 * [OxaPay](http://oxapay.com/) - Crypto payment gateway for Web, App and Business.
 
-## 💳 Crypto Visa/MasterCard Platform
+## 💳 Crypto Visa & MasterCard
 
-* [Tevau](https://tevau.io/)
-* [Cypher](https://cypherhq.io/)
+* [Tevau card](https://tevau.io/) -- ([example video toturial](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2))
+* [Cypher card ](https://cypherhq.io/)
 * [Alchemy Pay](https://alchemypay.org/)
-* [Pionex](https://www.pionex.com)
+* [Pionex card](https://www.pionex.com)
 
 ## 🦄 Community
 

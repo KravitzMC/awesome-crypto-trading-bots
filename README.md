@@ -207,6 +207,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 ## 💳 Crypto Visa & MasterCard
 
 * [Tevau card](https://tevau.io/) -   [[video toturial](https://youtube.com/shorts/tu_C6-pF0DY?si=QkbarI9WxPlUEkR2)]
+* [WeFi card](https://www.wefi.co/) -   [[video toturial](https://youtube.com/shorts/6vUf_FVSyFw?si=KP5wTb0z_hgzcEr0)]
 * [Cypher card ](https://cypherhq.io/)
 * [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com)

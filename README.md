@@ -42,9 +42,9 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 
-🏅 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
-
 🏅 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
+
+🏅 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
 
 🏅 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 

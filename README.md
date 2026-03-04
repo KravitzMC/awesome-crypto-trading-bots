@@ -44,7 +44,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 🏆 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
-🏅 [Quibera](https://quibera.com/ref/kirqnj) - Copy Professional Traders.
+🏅 [Quibera](https://quibera.com/ref/kirqnj) - Copy Professional Traders, AI Trade, Smart investment.
 
 🏅 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
 

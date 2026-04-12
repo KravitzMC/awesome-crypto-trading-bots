@@ -220,6 +220,13 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Alchemy Pay](https://alchemypay.org/)
 * [Pionex card](https://www.pionex.com)
 
+##  💳 Global Payment (Support countries)
+Update Thai QR Promptay and another in April 2026
+</br>
+* [Jupiter Global](https://landing.global.jup.ag/)
+* [Bitget Wallet](https://web3.bitget.com/th)
+
+
 ## 🦄 Community
 
 * [CallBotCrypto](https://callbotcrypto.com/) -  A group of PhD students have joined their knowledges to develop predictive algorithms. 

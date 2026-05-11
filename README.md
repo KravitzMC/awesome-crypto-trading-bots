@@ -42,7 +42,9 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 
-🏆 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+🏆 [Pump.Fun Sniper]([https://profitage.com](https://github.com/chainstacklabs/pumpfun-bonkfun-bot)) - pump.fun / letsbonk.fun trading and sniping bot
+
+🏅 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
 🏅 [Profitage](https://profitage.com) - Preconfigured Crypto Trading Bots Power up your crypto trading.
 

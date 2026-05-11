@@ -38,11 +38,11 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 👑 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
+🏆 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
+
 🏆 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
 🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
-
-🏆 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 
 🏅 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 

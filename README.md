@@ -44,6 +44,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 
+🏅 [XXYY.IO Skill](https://github.com/Jimmy-Holiday/xxyy-trade-skill) - Trade tokens on Solana, Ethereum, BSC, and Base chains via XXYY
+
 🏅 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
 🏅 [Profitage](https://profitage.com) - Preconfigured Crypto Trading Bots Power up your crypto trading.

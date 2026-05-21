@@ -36,33 +36,33 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 ## Open source bots
 
-👑 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
+💻 [CORNIX.IO](https://cornix.io) - Automated crypto trading platform with Grid, DCA, Copy-Trade and Backtesting.
 
-🏆 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
+💻 [Pump.Fun Sniper](https://github.com/chainstacklabs/pumpfun-bonkfun-bot) - pump.fun / letsbonk.fun trading and sniping bot
 
-🏆 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
+💻 [CoinRule](https://coinrule.com/?fp_ref=botcrypto) - Automated trading bot smart investor.
 
-🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
+💻 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 
-🏅 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
+💻 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi.
 
-🏅 [Polymarket Arbitrage Trading Bot](https://github.com/sysnexus1/polymarket-arbitrage-bot) - Trading bot for Polymarket's "Up or Down" crypto markets..
+💻 [Polymarket Arbitrage Trading Bot](https://github.com/sysnexus1/polymarket-arbitrage-bot) - Trading bot for Polymarket's "Up or Down" crypto markets..
 
-🏅 [XXYY.IO Skill](https://github.com/Jimmy-Holiday/xxyy-trade-skill) - Trade tokens on Solana, Ethereum, BSC, and Base chains via XXYY
+💻 [XXYY.IO Skill](https://github.com/Jimmy-Holiday/xxyy-trade-skill) - Trade tokens on Solana, Ethereum, BSC, and Base chains via XXYY
 
-🏅 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+💻 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
-🏅 [Profitage](https://profitage.com) - Preconfigured Crypto Trading Bots Power up your crypto trading.
+💻 [Profitage](https://profitage.com) - Preconfigured Crypto Trading Bots Power up your crypto trading.
 
-🏅 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
+💻 [the0](https://github.com/alexanderwanyoike/the0) - Self host for Algorithmic Trading with Claude Integration.
 
-🏅 [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
+💻 [Hummingbot](https://github.com/hummingbot/hummingbot) - an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 
-🏅 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
+💻 [Infinify-Grid](https://github.com/btschwertfeger/infinity-grid) - Multi-Exchange Infinity Grid Trading Bot for Crypto Assets
 
-🏅 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
+💻 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 
-🏅 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
+💻 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
 
 💻 [Quibera](https://quibera.com/ref/kirqnj) - Copy Professional Traders, AI Trade, Smart investment.
 

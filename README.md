@@ -44,6 +44,10 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 🏆 [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 
+🏅 [Polymarket + Kalshi Arbitrage Bot](https://github.com/ImMike/polymarket-arbitrage) - Cross-platform arbitrage detection between Polymarket and Kalshi prediction markets.
+
+🏅 [Polymarket Arbitrage Trading Bot] - Trading bot for Polymarket's "Up or Down" markets. It runs on 15-minute windows (Bitcoin, Ethereum, Solana, XRP).
+
 🏅 [XXYY.IO Skill](https://github.com/Jimmy-Holiday/xxyy-trade-skill) - Trade tokens on Solana, Ethereum, BSC, and Base chains via XXYY
 
 🏅 [freqtrade](https://github.com/freqtrade/freqtrade) - an open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
